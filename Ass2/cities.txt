@@ -1,0 +1,500 @@
+Tokyo 37393129
+Delhi 30290936
+Shanghai 27058479
+Sao Paulo 22043028
+Mexico City 21782378
+Dhaka 21005860
+Cairo 20900604
+Beijing 20462610
+Mumbai 20411274
+Osaka 19165340
+Karachi 16093786
+Chongqing 15872179
+Istanbul 15190336
+Buenos Aires 15153729
+Kolkata 14850066
+Lagos 14368332
+Kinshasa 14342439
+Manila 13923452
+Tianjin 13589078
+Rio De Janeiro 13458075
+Guangzhou 13301532
+Lahore 12642423
+Moscow 12537954
+Shenzhen 12356820
+Bangalore 12326532
+Paris 11017230
+Bogota 10978360
+Chennai 10971108
+Jakarta 10770487
+Lima 10719188
+Bangkok 10539415
+Hyderabad 10004144
+Seoul 9963452
+Nagoya 9552132
+London 9304016
+Chengdu 9135768
+Tehran 9134708
+New York 8622357
+Wuhan 8364977
+Luanda 8329798
+Ahmedabad 8059441
+Xian 8000965
+Kuala Lumpur 7996830
+Hangzhou 7642147
+Hong Kong 7547652
+Dongguan 7407852
+Foshan 7326852
+Riyadh 7231447
+Shenyang 7220104
+Surat 7184590
+Baghdad 7144260
+Suzhou Jiangsu 7069992
+Santiago 6767223
+Dar Es Salaam 6701650
+Pune 6629347
+Madrid 6617513
+Harbin 6387195
+Toronto 6196731
+Belo Horizonte 6084430
+Singapore 5935053
+Khartoum 5828858
+Johannesburg 5782747
+Qingdao 5619977
+Dalian 5617849
+Barcelona 5585556
+Fukuoka 5528632
+St Petersburg 5467808
+Jinan 5360185
+Yangon 5331800
+Zhengzhou 5322696
+Alexandria 5280664
+Abidjan 5202762
+Guadalajara 5179479
+Ankara 5117603
+Chittagong 5019824
+Melbourne 4967733
+Sydney 4925987
+Monterrey 4874095
+Nairobi 4734881
+Brasilia 4645843
+Cape Town 4617560
+Jiddah 4610176
+Changsha 4577723
+Kunming 4443186
+Changchun 4425761
+Xinbei 4398383
+Urumqi 4368865
+Shantou 4327316
+Rome 4257056
+Hefei 4241514
+Montreal 4220566
+Tel Aviv 4181479
+Porto Alegre 4137417
+Recife 4127091
+Ningbo 4116209
+Shijiazhuang 4114393
+Los Angeles 4085014
+Fortaleza 4073465
+Medellin 4000263
+Kano 3999050
+Yaounde 3992411
+Jaipur 3909333
+Ekurhuleni 3894262
+Taiyuan Shanxi 3891127
+Nanning 3859608
+San Salvador 3839076
+Casablanca 3752357
+Xiamen 3720141
+Fuzhou Fujian 3685701
+Lucknow 3676515
+Douala 3663227
+Changzhou 3625328
+Wenzhou 3623646
+Nanchang 3598421
+Berlin 3562038
+Kozhikode 3555411
+Ibadan 3551961
+Busan 3465190
+Faisalabad 3462295
+Tangshan Hebei 3425638
+Bekasi 3394273
+Malappuram 3391277
+Antananarivo 3368585
+Kumasi 3348062
+Asuncion 3336562
+Santo Domingo 3317784
+Guiyang 3317110
+Campinas 3300794
+Kampala 3298364
+Abuja 3277740
+Wuxi Jiangsu 3256020
+Mashhad 3208336
+Puebla 3194848
+Athens 3153355
+Dakar 3140442
+Milan 3140181
+Kanpur 3123990
+Kuwait City 3114553
+Kochi 3082055
+Lanzhou 3080522
+Thrissur 3068164
+Port Harcourt 3020232
+Guayaquil 2994218
+Sanaa 2972988
+Lisbon 2956879
+Surabaya 2944403
+Guatemala City 2934841
+Shizuoka 2922320
+Zhongshan 2913974
+Dubai 2878344
+Incheon 2801039
+Coimbatore 2786600
+Cali 2781980
+Ouagadougou 2780331
+Lusaka 2774133
+Port Au Prince 2773553
+Algiers 2767661
+Manchester 2730076
+Depok 2727209
+Taiyuan 2721485
+Goiania 2690011
+Chicago 2670406
+Sapporo 2669680
+Huaian 2655320
+Weifang 2653989
+Zibo 2639735
+Bamako 2617686
+Thiruvananthapuram 2584752
+Vancouver 2581079
+Bandung 2580191
+Pretoria 2565660
+Shaoxing 2540018
+Yantai 2526702
+Mbuji Mayi 2525263
+Huizhou 2524543
+Tashkent 2517381
+Accra 2514005
+Lubumbashi 2478262
+Toluca De Lerdo 2467241
+San Juan 2448417
+Beirut 2424425
+Brisbane 2406182
+Damascus 2392045
+Bhopal 2389547
+Brazzaville 2388090
+Luoyang 2387094
+Houston 2378146
+Tunis 2365201
+Baku 2341443
+Tangerang 2338547
+Medan 2337958
+Belem 2334462
+Sendai 2327417
+Mogadishu 2282009
+Nantong 2275777
+Barranquilla 2272914
+Manaus 2260788
+Maracaibo 2257999
+Taoyuan 2245162
+Rawalpindi 2236905
+Gujranwala 2229220
+Agra 2210246
+Peshawar 2202946
+Daegu 2198962
+Baotou 2190495
+Naples 2186853
+Visakhapatnam 2174968
+Kannur 2166906
+Liuzhou 2165257
+Hohhot 2163394
+Amman 2148293
+Xuzhou 2145970
+Havana 2140423
+Tijuana 2140398
+Esfahan 2132037
+Hiroshima 2083223
+Brussels 2080788
+Phnom Penh 2077757
+Grande Vitoria 2075857
+Nashik 2065728
+Mecca 2042106
+Perth 2041959
+Vijayawada 2039845
+Minsk 2028104
+Multan 2015091
+Yangzhou 1992773
+Bursa 1986268
+Baoding 1975790
+Conakry 1938272
+Linyi Shandong 1936908
+Taizhou Zhejiang 1934847
+Vienna 1929944
+Aleppo 1916781
+Putian 1907350
+Almaty 1895742
+Baixada Santista 1892314
+West Yorkshire 1889095
+Haikou 1889071
+Rabat 1884802
+Rajkot 1878032
+Wuhu Anhui 1870281
+Semarang 1866492
+Yancheng Jiangsu 1864424
+Panama City 1860291
+Daqing 1859001
+Ludhiana 1856849
+Kollam 1851558
+Lome 1827878
+Davao City 1825450
+Leon De Los Aldamas 1825080
+Lianyungang 1820127
+Bucharest 1803247
+Hamburg 1789954
+Warsaw 1783251
+Adana 1770850
+Budapest 1768073
+Zhuhai 1759378
+Datong 1745333
+Phoenix 1743469
+Madurai 1734173
+Benin City 1727169
+Palembang 1722700
+Lyon 1719268
+Santa Cruz 1712688
+Matola 1705886
+Gaziantep 1704118
+Meerut 1696440
+Quanzhou 1694076
+Jiangmen 1687310
+Sharjah 1684649
+Glasgow 1673332
+Varanasi 1664942
+Novosibirsk 1663748
+Xiangyang 1657726
+Shiraz 1651362
+Raipur 1642169
+Stockholm 1632798
+Mosul 1629932
+Anshan 1629166
+Can Tho 1617602
+La Laguna 1614854
+Tabriz 1611133
+Cixi 1609221
+Marseille 1608236
+Auckland 1606564
+Jilin 1603332
+Jamshedpur 1599434
+San Antonio 1590402
+Srinagar 1585774
+Makassar 1583553
+Karaj 1580413
+Philadelphia 1579504
+Yinchuan 1579049
+Daejon 1565656
+Qiqihaer 1559581
+Aurangabad 1558412
+Muscat 1549729
+Yichang 1548423
+Calgary 1547484
+Batam 1546064
+Xining 1539437
+Munich 1538302
+Gaoxiong 1537640
+Qinhuangdao 1535223
+Rosario 1532128
+Harare 1529920
+Hengyang 1527107
+Gwangju 1521506
+Monrovia 1517235
+Yekaterinburg 1503812
+Tiruppur 1496389
+Jining Shandong 1494249
+Medina 1488782
+Grande Sao Luis 1485763
+Abu Dhabi 1482816
+Jodhpur 1471900
+San Diego 1469490
+Edmonton 1461182
+Kananga 1458400
+Natal 1456844
+Jabalpur 1449787
+Tegucigalpa 1444085
+Suqian 1440060
+Ranchi 1439195
+Huainan 1437838
+Mandalay 1437554
+Zhangjiakou 1434649
+Asansol 1431260
+Kharkiv 1429004
+Chaozhou 1428383
+Kathmandu 1423515
+N Djamena 1422547
+Onitsha 1414790
+Dallas 1400337
+San Jose 1399629
+Chon Buri 1398645
+Belgrade 1397939
+Zurich 1395356
+Allahabad 1393723
+Ottawa 1393086
+Kota 1386877
+Gwalior 1378375
+Joao Pessoa 1378249
+Amritsar 1377371
+Basra 1352210
+Taizhou Jiangsu 1348056
+Copenhagen 1346485
+Queretaro 1339103
+Taian Shandong 1338828
+Adelaide 1336403
+Homs 1335804
+Yiwu 1334356
+Bucaramanga 1331453
+Dhanbad 1331186
+Konya 1328136
+Maceio 1323039
+Taizhong 1320591
+Nouakchott 1314636
+Porto 1312947
+Suweon 1311321
+Samut Prakan 1306937
+Prague 1305737
+Helsinki 1304851
+Weihai 1304315
+Cochabamba 1303907
+Joinville 1303141
+Ho Chi Minh City 1300088
+Mombasa 1295975
+Niamey 1291848
+Qom 1287937
+Zhanjiang 1286854
+Fushun Liaoning 1285387
+Ganzhou 1285039
+Sofia 1280968
+Zunyi 1280960
+Dongying 1276028
+Mianyang Sichuan 1275851
+Kaifeng 1274287
+Kazan 1272063
+Rizhao 1270948
+Kisangani 1261310
+Jiaxing 1259844
+Nizhniy Novgorod 1257754
+Nanchong 1257726
+Bareilly 1255287
+Antalya 1253872
+Port Elizabeth 1253742
+Ad Dammam 1252523
+Ahvaz 1244250
+Shiyan 1241450
+Florianopolis 1239331
+Dublin 1228179
+Chelyabinsk 1227795
+Fes 1224080
+San Luis Potosi 1216564
+Barquisimeto 1214362
+Pointe Noire 1214281
+Yingkou 1214047
+Aligarh 1210554
+Mysore 1209836
+Durg Bhilainagar 1207637
+Pekan Baru 1204883
+Maoming 1204716
+Maracay 1203227
+Freetown 1201900
+Tanger 1197923
+Moradabad 1197000
+Liuan 1195907
+Tengzhou 1189963
+Zhuzhou 1186912
+Omsk 1182339
+Zhenjiang Jiangsu 1173816
+Mendoza 1172619
+Suzhou Anhui 1169932
+Liuyang 1169044
+Ruian 1168983
+Chiang Mai 1166978
+Astana 1165983
+Tripoli 1165085
+Chifeng 1164793
+Tiruchirappalli 1164668
+Baoji 1164665
+Samara 1163296
+Bhubaneswar 1162886
+Puning 1160045
+Pingdingshan Henan 1159981
+Bogor 1159719
+Benxi 1157413
+Amsterdam 1148972
+Chandigarh 1148472
+Haifa 1147431
+Jieyang 1146758
+Jinzhou 1145359
+Xiangtan Hunan 1142976
+Nanyang Henan 1142799
+Huaibei 1141734
+Krasnoyarsk 1137494
+Ufa 1136291
+Rostov On Don 1136201
+Uyo 1135775
+Guilin 1134393
+Kigali 1132101
+Islamabad 1129198
+Da Nang 1125316
+Jinhua 1122440
+Lilongwe 1121720
+Mexicali 1120872
+Mwanza 1120430
+Cologne 1118789
+Guwahati 1116740
+Hubli Dharwad 1116728
+Kaduna 1113210
+Maputo 1110477
+Aguascalientes 1106453
+Salem 1102463
+Quetta 1099546
+Bandar Lampung 1091512
+Zaozhuang 1087745
+Binzhou 1083867
+Yongin 1083345
+Aba 1081466
+Xinxiang 1081031
+Bukavu 1078002
+Tbilisi 1077833
+Liupanshui 1077317
+Cuernavaca 1075022
+Perm 1071419
+Goyang 1069196
+Voronezh 1067719
+Managua 1063698
+Pizhou 1063231
+Cartagena 1062622
+Yueqing 1060702
+Shimkent 1057936
+Tasikmalaya 1056485
+Abomey Calavi 1056440
+Changwon 1055974
+Chihuahua 1054766
+Saharanpur 1054102
+Jalandhar 1053670
+Panjin 1053125
+Nnewi 1050860
+Oslo 1041377
+Luohe 1039941
+Diyarbakir 1039492
+Bishkek 1038429
+Jingzhou Hubei 1038296
+Wenling 1037164
+San Jose 1036242
+Fuyang 1036162
+Solapur 1031037
+Shangrao 1028518
+Kermanshah 1025740
+Toulouse 1024166
+Johor Bahru 1023900
+Zhaoqing 1023777
+Teresina 1021229
+Siliguri 1020303
+Ma Anshan 1019389
+Austin 1018842
